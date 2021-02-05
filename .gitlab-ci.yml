@@ -1,3 +1,10 @@
-test:
+image: vnijs/rsm-msba-spark:1.8.6
+push:
   script:
-  - echo ""
+    - sudo jupyter nbconvert --execute --to html intuit.ipynb
+submit:
+  script:
+    - echo ""
+  only:
+    - merge_requests
+ 
