@@ -4,3 +4,5 @@ Intuit released version 3 of the QuickBooks software in 1995. This project focus
 product to model the responses for wave 2. 
 
 The results from the model was then used to undertake a more targeted approach to mailing, thereby cutting down losses in this marketing campaign.
+
+intuit.ipynb is the final report
